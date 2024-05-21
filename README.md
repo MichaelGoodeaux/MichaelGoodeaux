@@ -11,11 +11,6 @@ I've been in the tech industry for 7 years. In my early career, I handled a lot 
 * 🧠  I'm learning AWS CDK
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/shroomagettv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shroomagettv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/omni_shroomage" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/omni_shroomage?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 ### Skills
 
 <p align="left">
