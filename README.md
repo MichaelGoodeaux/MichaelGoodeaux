@@ -4,7 +4,7 @@ Hi 👋 My name is Michael Goodeaux
 DevOps Engineer
 ---------------
 
-I've been in the tech industry for 5 years. In my early career, I handled a lot of backend databases and data engineering. As I furthered my career, I began to develop an interest in automation and eventually got certified as a Green Belt in Six Sigma after I fully automated one of my organization's most tedious and manual work items. From there, I launched my career into the SaaS industry and into Cloud Based infrastructure, where I began working with such cloud providers as AWS, Google Cloud, Azure, and IBM, and I have worked with a large number of tools, both legacy and cutting edge. My GitHub goes long lapses without activity, as I am required to use Bitbucket with my current organization.
+I've been in the tech industry for 7 years. In my early career, I handled a lot of backend databases and data engineering. As I furthered my career, I began to develop an interest in automation and eventually got certified as a Green Belt in Six Sigma after I fully automated one of my organization's most tedious and manual work items. From there, I launched my career into the SaaS industry and into Cloud Based infrastructure, where I began working with such cloud providers as AWS, Google Cloud, Azure, and IBM, and I have worked with a large number of tools, both legacy and cutting edge. My GitHub goes long lapses without activity, as I am required to use Bitbucket with my current organization.
 
 * 🌍  I'm based in Denver, CO
 * ✉️  You can contact me at [michaelgoodeaux@gmail.com](mailto:michaelgoodeaux@gmail.com)
