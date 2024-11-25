@@ -8,7 +8,7 @@ I've been in the tech industry for 7 years. In my early career, I handled a lot 
 
 * 🌍  I'm based in Denver, CO
 * ✉️  You can contact me at [michaelgoodeaux@gmail.com](mailto:michaelgoodeaux@gmail.com)
-* 🧠  I'm learning AWS CDK
+* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
